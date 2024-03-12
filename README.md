@@ -149,7 +149,7 @@ Type
 	Name: "Prusa3"
 	Model: "Prusa MK3S+"
 Click "Print bed and build volume"
-	use settings found [https://help.prusa3d.com/article/octoprint-configuration-and-install_2182]
+	use settings found [https://help.prusa3d.com/article/octoprint-configuration-and-install_2182](here)
 
 
 ### Setup Plugins
